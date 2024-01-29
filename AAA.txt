@@ -2,6 +2,7 @@
     "urls": [
         {"url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json","name": "🔞高天流云9918(优选)"},
         {"url": "https://qu.ax/qonL.json","name": "🐝蜂蜜大杂烩(综合)"},
+        {"url": "https://guot55.github.io/gg1/qh.json","name": "🐔鸡你太美科技"},
         {"url": "https://tv.lan2wan.top/candymuj18.json","name": "💕CandyMuj★★★"},
         {"url": "https://ghss.lan2wan.top/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json","name": "💕CandyMuj★★★备用"},
         {"url": "http://d353de12.gghost.686812.xyz/20.json","name": "🔞公子福利(优选)"},
