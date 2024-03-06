@@ -14,8 +14,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/
 
 6、wuheng18_ysc （综合，18+）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
 
-7、自用多仓（18）
-
+7、自用多仓（18） 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/002_flzh.json
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/cr.txt
@@ -67,11 +66,10 @@ github://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@github.com/lxhfans/cat/main/as
 
 github://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@github.com/lxhfans/catvod/main/asset/js/config_open99.json
 
-## ZYplayer专用
+## ZYplayer专用(把青年模式关了就可以搜关键字了,搜索旁边 精确搜索关掉)
 1、https://zy.catni.cn/easyconfig.json
 https://zy.catni.cn/config.json
 
 2、片库专用
-我的 视频源管理 导入ZY视频源 然后输入https://mirror.ghproxy.com/https://raw.githubusercontent.com/vfdeclnc/zy-player-18-resource/main/src_2023-08-22.json
-把青年模式关了就可以搜 关键字了
-搜索旁边 精确搜索关掉
+我的 视频源管理 导入ZY视频源 然后输入
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/vfdeclnc/zy-player-18-resource/main/src_2023-08-22.json
