@@ -1,4 +1,4 @@
-# 自用TVbox接口
+# 自用TVbox接口，勿外传
 ## 影视仓专用、多仓
 1、应用多多 多仓线路 https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main
 
