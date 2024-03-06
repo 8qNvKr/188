@@ -15,7 +15,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/
 6、wuheng18_ysc （综合，18+）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
 
 7、自用多仓（18） 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/002_flzh.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/AAA.json
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/cr.txt
 
@@ -46,6 +46,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/cr.
 4、拾光 https://d.kstore.space/download/4708/ilive.txt
 
 5、小武哥18 https://raw.gitmirror.com/wwb521/live/main/fl.txt
+
+6、自用 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/flzb.txt
 
 ## 猫影视专用接口
 1、盒子地窖
