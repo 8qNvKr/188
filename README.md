@@ -6,19 +6,18 @@
 
 3、欧歌多仓 http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌
 
-4、高天流云、优质、CR（超级综合，★★★★★） https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json
+4、高天流云、优质、CR（综合，★★★★★） https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json
 
 5、金鹰影视 多仓综合 http://530.my3v.work/f.json
 
-6、wuheng18_ysc （综合，18+）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
+6、wuheng18_ysc （综合，18）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
 
 7、自用多仓（影视）
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/ysdc.json
 
 自用多仓（18） 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/AAA.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/18dc.json
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/cr.txt
 
 ## 影视专用、单仓单线路
 1、拾光畅谈 VIP线路 https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/svip/main/vip.json
