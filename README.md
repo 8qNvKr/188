@@ -56,17 +56,11 @@ http://yydf:abcd@my.540734621.xyz/yydf/猫源.json
 
 http://yydf:abcd@my.540734621.xyz/yydf/猫源99.json
 
-2、乐享汇 常规源：
+2、乐享汇：
 
-github://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@github.com/lxhfans/cat/main/asset/js/config_open.json
+github://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@github.com/lxhfans/catvod/main/asset/js/config_open.json（常规）
 
-github://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@github.com/lxhfans/catvod/main/asset/js/config_open.json
-
-3、乐享汇 绿茶源：
-
-github://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@github.com/lxhfans/cat/main/asset/js/config_open99.json
-
-github://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@github.com/lxhfans/catvod/main/asset/js/config_open99.json
+github://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@github.com/lxhfans/catvod/main/asset/js/config_open99.json（绿茶）
 
 ## ZYplayer专用(把青年模式关了就可以搜关键字了,搜索旁边 精确搜索关掉)
 1、https://zy.catni.cn/easyconfig.json
