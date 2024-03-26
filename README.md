@@ -12,7 +12,9 @@
 
 6、wuheng18_ysc （综合，18）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
 
-7、自用多仓（影视）
+7、无邪多仓  https://atomgit.com/zing1430/wxrj/raw/master/wx.json
+
+8、自用多仓（影视）
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/ysdc.json
 
 自用多仓（18） 
