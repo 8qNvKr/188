@@ -34,17 +34,17 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/18d
 
 7、CandyMuj（18) https://tv.lan2wan.top/candymuj18.json
 
-小张 https://www.rjjjh.com/xzbgg.json
+小张：https://www.rjjjh.com/xzbgg.json
 
 缝纫机：https://mirror.ghproxy.com/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json
 
-无界：https://www.无界.top/无界线路禁止贩卖
+刺猬：https://www.cwss.xyz/刺猬线路禁止贩卖
 
 青木：https://tvbox.aoki.fun/M
 
 太阳：https://tvbox.meitufu.com/TVBox/tv.json
 
-潇洒：https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
+潇洒：https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
 影视：https://xzweb.top/cs/%E5%BD%B1%E8%A7%86%E6%8E%A5%E5%8F%A3/main/hys4k.json
 
@@ -54,15 +54,13 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/18d
 
 盐枭：https://9xi4o.tk/tvbox.json
 
-cally:http://122.51.37.23/man/cally.json
+cally：http://122.51.37.23/man/cally.json
 
 乌鸦：https://pan.shangui.cc/f/gyVYFV/乌鸦不太黑.json
 
 炫猪：https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json
 
 小林：https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json
-
-一夫：http://yydf.540734621.xyz/yydf/yydf/bd/watson/watson.json
 
 茄子：http://tv.tv520.shop
 
