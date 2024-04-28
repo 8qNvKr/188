@@ -69,18 +69,12 @@ cally：http://122.51.37.23/man/cally.json
 夜猫：https://raw.gitcode.com/Xymz/ymz/blobs/3e447ee2b92cbf8282c1648387380768a73efa63/YMZ
 
 ## 直播 福利（影视：点击直播主页→钥匙，影视仓超级密码：azgkf）
-1、tk https://agit.ai/xzdx05/e9e99843773ce375/raw/branch/master/n.m3u
-
-2、https://agit.ai/abc132/tt/raw/branch/master/live/live.txt
-
-3、拾光畅谈 https://www.hmg.pw:9999/mltv.txt
+1、拾光畅谈 https://www.hmg.pw:9999/mltv.txt
 密码：888888
 
-4、拾光 https://d.kstore.space/download/4708/ilive.txt
+2、小武哥18 https://raw.gitmirror.com/wwb521/live/main/fl.txt
 
-5、小武哥18 https://raw.gitmirror.com/wwb521/live/main/fl.txt
-
-6、自用 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/flzb.txt
+3、自用 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/flzb.txt
 
 ## 猫影视专用接口
 
