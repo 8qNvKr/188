@@ -12,9 +12,7 @@
 
 6、wuheng18_ysc （综合，18）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
 
-7、无邪多仓  https://atomgit.com/zing1430/wxrj/raw/master/wx.json
-
-8、自用多仓（影视）
+自用多仓（影视）
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/ysdc.json
 
 自用多仓（18） 
@@ -32,10 +30,45 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/18d
 
 5、高天流云 https://already.free.hr/gaotianliuyun/gao/master/0821.json
 
-## 影视专用、福利
-1、高天流云9918 https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json
+6、高天流云9918（18） https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json
 
-2、CandyMuj https://tv.lan2wan.top/candymuj18.json
+7、CandyMuj（18) https://tv.lan2wan.top/candymuj18.json
+
+小张 https://www.rjjjh.com/xzbgg.json
+
+缝纫机：https://mirror.ghproxy.com/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json
+
+无界：https://www.无界.top/无界线路禁止贩卖
+
+青木：https://tvbox.aoki.fun/M
+
+太阳：https://tvbox.meitufu.com/TVBox/tv.json
+
+潇洒：https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
+
+影视：https://xzweb.top/cs/%E5%BD%B1%E8%A7%86%E6%8E%A5%E5%8F%A3/main/hys4k.json
+
+雷蒙：https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86.bmp
+
+小美：https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json
+
+盐枭：https://9xi4o.tk/tvbox.json
+
+cally:http://122.51.37.23/man/cally.json
+
+乌鸦：https://pan.shangui.cc/f/gyVYFV/乌鸦不太黑.json
+
+炫猪：https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json
+
+小林：https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json
+
+一夫：http://yydf.540734621.xyz/yydf/yydf/bd/watson/watson.json
+
+茄子：http://tv.tv520.shop
+
+100：https://www.100km.top/0
+
+夜猫：https://raw.gitcode.com/Xymz/ymz/blobs/3e447ee2b92cbf8282c1648387380768a73efa63/YMZ
 
 ## 直播 福利（影视：点击直播主页→钥匙，影视仓超级密码：azgkf）
 1、tk https://agit.ai/xzdx05/e9e99843773ce375/raw/branch/master/n.m3u
@@ -52,13 +85,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/18d
 6、自用 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/flzb.txt
 
 ## 猫影视专用接口
-1、盒子地窖
 
-http://yydf:abcd@my.540734621.xyz/yydf/猫源.json
-
-http://yydf:abcd@my.540734621.xyz/yydf/猫源99.json
-
-2、乐享汇：
+1、乐享汇：
 
 github://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@github.com/lxhfans/catvod/main/asset/js/config_open.json（常规）
 
