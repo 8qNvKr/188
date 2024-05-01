@@ -12,6 +12,8 @@
 
 6、wuheng18_ysc （综合，18）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
 
+7、天微多仓接口：http://tvkj.top/DC.txt
+
 自用多仓（影视）
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/ysdc.json
 
