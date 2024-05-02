@@ -1,6 +1,6 @@
 # 自用TVbox接口，勿外传
 ## 影视仓专用、多仓
-1、应用多多 多仓线路 https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main
+1、应用多多 多仓 https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main
 
 2、拾光畅谈 多仓 https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/svip/main/dc.json
 
@@ -13,6 +13,9 @@
 6、wuheng18_ysc （综合，18）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
 
 7、天微多仓接口：http://tvkj.top/DC.txt
+
+8、无邪多仓：
+https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master
 
 自用多仓（影视）
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/ysdc.json
