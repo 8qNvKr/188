@@ -49,8 +49,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/18d
 
 潇洒：https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
-影视：https://xzweb.top/cs/%E5%BD%B1%E8%A7%86%E6%8E%A5%E5%8F%A3/main/hys4k.json
-
 雷蒙：https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86.bmp
 
 小美：https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json
