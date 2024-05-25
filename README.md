@@ -75,7 +75,10 @@ cally：http://122.51.37.23/man/cally.json
 
 2、小武哥18 https://raw.gitmirror.com/wwb521/live/main/fl.txt
 
-3、自用 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/flzb.txt
+3、dalao168 https://dalao168.top/69.txt   
+https://dalao168.top/tvbox18-main/json/madou.txt
+
+4、自用 https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/flzb.txt
 
 ## 猫影视专用接口
 
