@@ -82,11 +82,6 @@ https://dalao168.top/tvbox18-main/json/madou.txt
 
 ## 猫影视专用接口
 
-1、乐享汇：
-
-github://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@github.com/lxhfans/catvod/main/asset/js/config_open.json（常规）
-
-github://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@github.com/lxhfans/catvod/main/asset/js/config_open99.json（绿茶）
 
 ## ZYplayer专用(把青年模式关了就可以搜关键字了,搜索旁边 精确搜索关掉)
 1、https://zy.catni.cn/easyconfig.json
