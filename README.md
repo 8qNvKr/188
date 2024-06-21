@@ -73,7 +73,9 @@ cally：http://122.51.37.23/man/cally.json
 1、拾光畅谈 https://www.hmg.pw:9999/mltv.txt
 密码：888888
 
-2、小武哥18 https://raw.gitmirror.com/wwb521/live/main/fl.txt
+2、小武哥正常 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json
+
+2、小武哥18 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json
 
 3、dalao168 https://dalao168.top/69.txt   
 https://dalao168.top/tvbox18-main/json/madou.txt
