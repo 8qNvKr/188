@@ -8,9 +8,9 @@
 
 4、高天流云、优质、CR（综合，★★★★★） https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json
 
-5、金鹰影视 多仓综合 http://530.my3v.work/f.json
+5、YHY科技多仓 https://www.gitlink.org.cn/api/yhykeji/TVbox/raw/yhykeji.json?ref=master
 
-6、YHY科技多仓 https://www.gitlink.org.cn/api/yhykeji/TVbox/raw/yhykeji.json?ref=master
+6、金鹰影视 多仓综合 http://530.my3v.work/f.json
 
 7、wuheng18_ysc （综合，18）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
 
