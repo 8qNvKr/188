@@ -10,9 +10,11 @@
 
 5、金鹰影视 多仓综合 http://530.my3v.work/f.json
 
-6、wuheng18_ysc （综合，18）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
+6、YHY科技多仓 https://www.gitlink.org.cn/api/yhykeji/TVbox/raw/yhykeji.json?ref=master
 
-7、无邪多仓：
+7、wuheng18_ysc （综合，18）https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
+
+8、无邪多仓：
 https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master
 
 自用多仓（影视）
