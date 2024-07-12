@@ -14,6 +14,7 @@
 ## 影视专用、单仓单线路
 | 名称 | 地址 |
 | :---: | :--- | 
+| 雷蒙 |https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp|
 | 拾光畅谈 VIP线路 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/svip/main/vip.json |
 | 应用多多 多线路 | https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main |
 | 龙门影视、东曦视界 | https://box.iqinu.com/ |
@@ -28,7 +29,6 @@
 | 缝纫机 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json |
 | 刺猬 | https://www.cwss.xyz/刺猬线路禁止贩卖 |
 | 潇洒 |https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json|
-| 雷蒙 |https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp|
 | 小美 |https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json|
 | 盐枭 |https://9xi4o.tk/tvbox.json|
 | 炫猪 |https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json|
