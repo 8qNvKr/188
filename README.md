@@ -4,13 +4,13 @@
 | :---: | :--- | 
 | 应用多多 | https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main | 
 | 拾光畅谈 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/svip/main/dc.json| 
-| 天微多仓 | https://gitee.com/tvkj/dc/raw/master/DC.json|
+| 天微多仓 | https://gitee.com/tvkj/dc/raw/master/DC.json |
 | 高天流云、优质、CR | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json |
 | YHY科技多仓 | https://www.gitlink.org.cn/api/yhykeji/TVbox/raw/yhykeji.json?ref=master |
 | 无邪多仓 | https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master |
-| wuheng18_ysc（18） | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
-| 自用多仓（影视） | https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
-| 自用多仓（18）  | https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DC18.json |
+| wuheng18_ysc🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
+| 自用多仓| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
+| 自用多仓🈲| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DC18.json |
 ## 影视专用、单仓单线路
 | 名称 | 地址 |
 | :---: | :--- | 
@@ -20,11 +20,14 @@
 | 龙门影视、东曦视界 | https://box.iqinu.com/ |
 | 驸马影视 | http://fmys.top/fmys.json |
 | 高天流云 | https://already.free.hr/gaotianliuyun/gao/master/0821.json |
-| 高天流云9918（18） |  https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json |
-| CandyMuj（18) | https://tv.lan2wan.top/candymuj18.json |
+| 高天流云🈲|  https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json |
+| CandyMuj🈲| https://tv.lan2wan.top/candymuj18.json |
 | 天微影视VIP线 | https://gitee.com/tvkj/tw/raw/main/svip.json |
-| 小武哥（影视）|https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json|
-| 小武哥（18）|https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json|
+| 飞龙单仓| https://gitee.com/tvkj/fl/raw/main/svip.json| 
+| 七星精选| https://gitlab.com/tvtg/qx/-/raw/main/svip.json| 
+| 喵影线路| http://meowtv.cn/tv| 
+| 小武哥|https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json|
+| 小武哥🈲|https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json|
 | 小张 | https://www.rjjjh.com/xzbgg.json |
 | 缝纫机 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json |
 | 刺猬 | https://www.cwss.xyz/刺猬线路禁止贩卖 |
@@ -35,12 +38,18 @@
 | 小林 |https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json|
 
 ## 直播 福利（影视：点击直播主页→钥匙，影视仓超级密码：azgkf）
-| 名称 | 地址 | 备注 | 
-| :---: | :--- | :---: | 
+| 名称 | 地址 | 
+| :---: | :--- | 
 | 潇洒 | https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt |
-|dalao168|https://dalao168.top/69.txt|
-|dalao168 |https://dalao168.top/tvbox18-main/json/madou.txt |
-|自用|https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/flzb.txt|
+| 天微直播 | https://gitlab.com/tvtg/vip/-/raw/main/log.txt|
+| 天微纯ipv6接口 | http://tvkj.top/IPV6.txt | 
+| 龙TV接口地址| https://d.kstore.space/download/7337/龙TV/log | 
+| 春盈天下🈲| https://files.catbox.moe/feyax3.txt | 
+| 小齐直播 | https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt | 
+| 肥猫 | http://我不是.肥猫.live/TV/tvzb.txt | 
+|dalao168🈲|https://dalao168.top/69.txt|
+|dalao168🈲|https://dalao168.top/tvbox18-main/json/madou.txt |
+|自用🈲|https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/flzb.txt|
 
 ## ZYplayer专用(把青年模式关了就可以搜关键字了,搜索旁边 精确搜索关掉)
 1、https://zy.catni.cn/easyconfig.json
