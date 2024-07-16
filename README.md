@@ -2,7 +2,7 @@
 ## 影视仓专用、多仓
 | 名称 | 地址 |
 | :---: | :--- | 
-| 应用多多 | https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main | 
+| 应用多多 已关闭| https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main | 
 | 拾光畅谈 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/svip/main/dc.json| 
 | 天微多仓 | https://gitee.com/tvkj/dc/raw/master/DC.json |
 | 高天流云、优质、CR | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json |
