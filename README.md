@@ -2,7 +2,6 @@
 ## 影视仓专用、多仓
 | 名称 | 地址 |
 | :---: | :--- | 
-| 应用多多 已关闭| https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main | 
 | 拾光畅谈 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/svip/main/dc.json| 
 | 天微多仓 | https://gitee.com/tvkj/dc/raw/master/DC.json |
 | 高天流云、优质、CR | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json |
@@ -11,12 +10,11 @@
 | wuheng18_ysc🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
 | 自用多仓| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
 | 自用多仓🈲| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DC18.json |
-## 影视专用、单仓单线路
+## 影视专用、多线路
 | 名称 | 地址 |
 | :---: | :--- | 
 | 雷蒙 |https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp|
 | 拾光畅谈 VIP线路 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/svip/main/vip.json |
-| 应用多多 多线路 | https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main |
 | 龙门影视、东曦视界 | https://box.iqinu.com/ |
 | 驸马影视 | http://fmys.top/fmys.json |
 | 高天流云 | https://already.free.hr/gaotianliuyun/gao/master/0821.json |
