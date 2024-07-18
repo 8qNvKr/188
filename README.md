@@ -2,7 +2,6 @@
 ## 影视仓专用、多仓
 | 名称 | 地址 |
 | :---: | :--- | 
-| 拾光畅谈 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/svip/main/dc.json| 
 | 天微多仓 | https://gitee.com/tvkj/dc/raw/master/DC.json |
 | 高天流云、优质、CR | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json |
 | YHY科技多仓 | https://www.gitlink.org.cn/api/yhykeji/TVbox/raw/yhykeji.json?ref=master |
@@ -14,11 +13,11 @@
 | 名称 | 地址 |
 | :---: | :--- | 
 | 雷蒙 |https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp|
-| 拾光畅谈 VIP线路 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/svip/main/vip.json |
 | 龙门影视、东曦视界 | https://box.iqinu.com/ |
 | 驸马影视 | http://fmys.top/fmys.json |
 | 高天流云 | https://already.free.hr/gaotianliuyun/gao/master/0821.json |
 | 高天流云🈲|  https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json |
+| 黑料呱哥🈲|  https://gitee.com/hsyw/demo1/raw/master/hlgg.txt |
 | CandyMuj🈲| https://tv.lan2wan.top/candymuj18.json |
 | 天微影视VIP线 | https://gitee.com/tvkj/tw/raw/main/svip.json |
 | 飞龙单仓| https://gitee.com/tvkj/fl/raw/main/svip.json| 
