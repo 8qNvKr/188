@@ -3,6 +3,7 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/adult.json","name":"xfcjp_adult"},
 {"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json","name": "🔞高天流云9918"},
 {"url":"https://tv.lan2wan.top/candymuj18.json","name":"💕CandyMuj★★★"},
+{"url":"https://gitee.com/hsyw/demo1/raw/master/hlgg.txt","name":"🍉 黑料呱哥"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json","name":"🔞小武哥18+"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json","name":"🔞挺好专享"},
 {"url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt","name":"🌈私人影院"},
