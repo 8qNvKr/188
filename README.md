@@ -7,6 +7,7 @@
 | YHY科技多仓 | https://www.gitlink.org.cn/api/yhykeji/TVbox/raw/yhykeji.json?ref=master |
 | 无邪多仓 | https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master |
 | wuheng18_ysc🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
+| 无界多仓 | https://www.xn--rgv465a.top/无界多仓禁止贩卖|
 | 自用多仓| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
 | 自用多仓🈲| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DC18.json |
 ## 影视专用、多线路
@@ -22,6 +23,7 @@
 | 天微影视VIP线 | https://gitee.com/tvkj/tw/raw/main/svip.json |
 | 飞龙单仓| https://gitee.com/tvkj/fl/raw/main/svip.json| 
 | 七星精选| https://gitlab.com/tvtg/qx/-/raw/main/svip.json| 
+| 无界 | https://www.xn--rgv465a.top/无界线路禁止贩卖 |
 | 喵影线路| http://meowtv.cn/tv| 
 | 小武哥|https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json|
 | 小武哥🈲|https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json|
@@ -41,6 +43,7 @@
 | 天微直播 | https://gitlab.com/tvtg/vip/-/raw/main/log.txt|
 | 天微纯ipv6接口 | http://tvkj.top/IPV6.txt | 
 | 龙TV接口地址| https://d.kstore.space/download/7337/龙TV/log | 
+| 无界直播 | https://www.xn--rgv465a.top/无界直播禁止贩卖|
 | 春盈天下🈲| https://files.catbox.moe/feyax3.txt | 
 | 小齐直播 | https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt | 
 | 肥猫 | http://我不是.肥猫.live/TV/tvzb.txt | 
