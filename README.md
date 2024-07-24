@@ -25,7 +25,7 @@
 | 飞龙单仓| https://gitee.com/tvkj/fl/raw/main/svip.json| 
 | 七星精选| https://gitlab.com/tvtg/qx/-/raw/main/svip.json| 
 | 无界 | https://www.xn--rgv465a.top/无界线路禁止贩卖 |
-| 喵影线路| http://meowtv.cn/tv| 
+| 喵影线路| http://www.weetai.cn/tvbox.json | 
 | 小武哥|https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json|
 | 小武哥🈲|https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json|
 | 小张 | https://www.rjjjh.com/xzbgg.json |
