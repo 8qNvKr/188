@@ -4,6 +4,7 @@
 | :---: | :--- | 
 | 天微多仓 | https://gitee.com/tvkj/dc/raw/master/DC.json |
 | 高天流云、优质、CR | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json |
+| 多多影音多仓 | https://www.gitlink.org.cn/api/leevi0321/cool/raw/room.json?ref=main |
 | YHY科技多仓 | https://www.gitlink.org.cn/api/yhykeji/TVbox/raw/yhykeji.json?ref=master |
 | 无邪多仓 | https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master |
 | wuheng18_ysc🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
