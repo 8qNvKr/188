@@ -21,6 +21,8 @@
 | 高天流云🈲|  https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json |
 | 黑料呱哥🈲|  https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json |
 | CandyMuj🈲| https://tv.lan2wan.top/candymuj18.json |
+| 金鹰影视1 |http://530.my3v.work/jy.json|
+|金鹰影视2 | http://530.my3v.work/1.json|
 | 天微影视VIP线 | https://gitee.com/tvkj/tw/raw/main/svip.json |
 | 飞龙单仓| https://gitee.com/tvkj/fl/raw/main/svip.json| 
 | 七星精选| https://gitlab.com/tvtg/qx/-/raw/main/svip.json| 
