@@ -18,7 +18,6 @@
 | 龙门影视、东曦视界 | https://box.iqinu.com/ |
 | 驸马影视 | http://fmys.top/fmys.json |
 | 高天流云 | https://already.free.hr/gaotianliuyun/gao/master/0821.json |
-| 高天流云🈲|  https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json |
 | 黑料呱哥🈲|  https://mirror.ghproxy.com/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json |
 | CandyMuj🈲| https://tv.lan2wan.top/candymuj18.json |
 | 金鹰影视1 |http://530.my3v.work/jy.json|
