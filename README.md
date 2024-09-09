@@ -8,6 +8,9 @@
 | YHY科技多仓 | https://www.gitlink.org.cn/api/yhykeji/TVbox/raw/yhykeji.json?ref=master |
 | 无邪多仓 | https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master |
 | wuheng18_ysc🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
+| wuheng18_0🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy20231124/master/x/0 |
+| wuheng18_1🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy20231124/master/x/1 |
+| wuheng18_2🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy20231124/master/x/2 |
 | 无界多仓 | https://www.xn--rgv465a.top/无界多仓禁止贩卖|
 | WYB多仓🈲 | https://raw.githubusercontent.com/hjpwyb/WYB/main/data/2024_02_05/dk2.json|
 | 自用多仓| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
