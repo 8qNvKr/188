@@ -9,6 +9,7 @@
 | 无邪多仓 | https://www.gitlink.org.cn/api/wxrj/wx/raw/wx.json?ref=master |
 | wuheng18_ysc🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
 | 无界多仓 | https://www.xn--rgv465a.top/无界多仓禁止贩卖|
+| WYB多仓🈲 | https://raw.githubusercontent.com/hjpwyb/WYB/main/data/2024_02_05/dk2.json|
 | 自用多仓| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
 | 自用多仓🈲| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DC18.json |
 ## 影视专用、多线路
