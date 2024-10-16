@@ -44,7 +44,8 @@
 | 无界直播 | https://www.xn--rgv465a.top/无界直播禁止贩卖|
 | 春盈天下🈲| https://files.catbox.moe/feyax3.txt | 
 | 肥猫 | http://我不是.肥猫.live/TV/tvzb.txt | 
-|自用🈲|https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/flzb.txt|
+|自用🈲|https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/FLZB.txt|
+|自用🈲|https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/FLZB2.txt|
 
 ## ZYplayer专用(把青年模式关了就可以搜关键字了,搜索旁边 精确搜索关掉)
 https://zy.catni.cn/easyconfig.json
