@@ -27,11 +27,6 @@
 | CandyMuj🈲| https://tv.lan2wan.top/candymuj18.json |
 | 金鹰影视1 |http://530.my3v.work/jy.json|
 |金鹰影视2 | http://530.my3v.work/1.json|
-| 天微影视VIP线 | https://gitee.com/tvkj/tw/raw/main/svip.json |
-| 飞龙单仓| https://gitee.com/tvkj/fl/raw/main/svip.json| 
-| 七星精选| https://gitlab.com/tvtg/qx/-/raw/main/svip.json| 
-| 无界 | https://www.xn--rgv465a.top/无界线路禁止贩卖 |
-| 喵影线路| http://www.weetai.cn/tvbox.json | 
 | 小武哥|https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json|
 | 小武哥🈲|https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json|
 | 小张 | https://www.rjjjh.com/xzbgg.json |
