@@ -33,7 +33,6 @@
 | 缝纫机 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json |
 | 刺猬 | https://www.cwss.xyz/刺猬线路禁止贩卖 |
 | 潇洒 |https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json|
-| 小美 |https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json|
 | 盐枭 |https://9xi4o.tk/tvbox.json|
 | 炫猪 |https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json|
 | 小林 |https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json|
