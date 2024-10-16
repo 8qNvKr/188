@@ -2,7 +2,6 @@
 ## 影视仓专用、多仓
 | 名称 | 地址 |
 | :---: | :--- | 
-| 天微多仓 | https://gitee.com/tvkj/dc/raw/master/DC.json |
 | 高天流云、优质、CR | https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json |
 | 多多影音多仓 | https://www.gitlink.org.cn/api/leevi0321/cool/raw/room.json?ref=main |
 | YHY科技多仓 | https://www.gitlink.org.cn/api/yhykeji/TVbox/raw/yhykeji.json?ref=master |
@@ -12,7 +11,9 @@
 | wuheng18_1🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy20231124/master/x/1 |
 | wuheng18_2🈲 | https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy20231124/master/x/2 |
 | 无界多仓 | https://www.xn--rgv465a.top/无界多仓禁止贩卖|
-| WYB多仓🈲 | https://raw.githubusercontent.com/hjpwyb/WYB/main/data/2024_02_05/dk2.json|
+| WYB多仓2🈲 | https://raw.githubusercontent.com/hjpwyb/WYB/main/data/2024_02_05/dk2.json|
+| WYB多仓3 |https://raw.githubusercontent.com/hjpwyb/WYB/refs/heads/main/data/2024_02_05/dk3.json|
+| WYB多仓5 |https://raw.githubusercontent.com/hjpwyb/WYB/refs/heads/main/data/2024_02_05/dc5.json|
 | 自用多仓| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
 | 自用多仓🈲| https://mirror.ghproxy.com/https://raw.githubusercontent.com/8qNvKr/188/main/DC18.json |
 ## 影视专用、多线路
