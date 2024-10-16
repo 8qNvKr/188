@@ -22,11 +22,12 @@
 | 雷蒙 |https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp|
 | 龙门影视、东曦视界 | https://box.iqinu.com/ |
 | 驸马影视 | http://fmys.top/fmys.json |
+| 喵影视TV | http://www.meowtv.top |
 | 高天流云 | https://already.free.hr/gaotianliuyun/gao/master/0821.json |
 | 黑料呱哥🈲|  https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json |
 | CandyMuj🈲| https://tv.lan2wan.top/candymuj18.json |
 | 金鹰影视1 |http://530.my3v.work/jy.json|
-|金鹰影视2 | http://530.my3v.work/1.json|
+| 金鹰影视2 | http://530.my3v.work/1.json|
 | 小武哥  |https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json|
 | 小武哥🈲 | https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json|
 | 小张 | https://www.rjjjh.com/xzbgg.json |
@@ -44,11 +45,14 @@
 | 无界直播 | https://www.xn--rgv465a.top/无界直播禁止贩卖|
 | 春盈天下🈲| https://files.catbox.moe/feyax3.txt | 
 | 肥猫 | http://我不是.肥猫.live/TV/tvzb.txt | 
-|自用🈲|https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/FLZB.txt|
-|自用🈲|https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/FLZB2.txt|
+| 自用🈲 |https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/FLZB.txt|
+| 自用🈲 |https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/FLZB2.txt|
 
 ## ZYplayer专用(把青年模式关了就可以搜关键字了,搜索旁边 精确搜索关掉)
 https://zy.catni.cn/easyconfig.json
+
 https://zy.catni.cn/config.json
+
 https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/refs/heads/main/src_18_2023-07-29.json
+
 https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/refs/heads/main/src_18_2023-08-22.json
