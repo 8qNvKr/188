@@ -40,7 +40,7 @@
 | 盐枭 | https://9xi4o.tk/tvbox.json|
 | 炫猪 | https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json|
 | 小林 | https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json|
-| 神V直播🈲 | https://cccimg.com/down.php/f4af154c7c931173b01827de1ef2743f.txt&0474 |
+| 神V🈲 | https://cccimg.com/down.php/f4af154c7c931173b01827de1ef2743f.txt&0474 |
 | aliluya1977🈲 | https://ghp.ci/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa.json |
 | aliluya1977🈲2 | https://ghp.ci/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa11.json |
 
@@ -52,6 +52,7 @@
 | 春盈天下🈲| https://files.catbox.moe/feyax3.txt | 
 | 肥猫 | http://我不是.肥猫.live/TV/tvzb.txt | 
 | 老司机🈲 | https://files.catbox.moe/3m5dbm.txt |
+| 糖意直播🈲 | https://www.netpan.cn/down.php/93ee8880761608126469a9b65f81f5df.txt |
 | 自用🈲 |https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/FLZB.txt|
 | 自用🈲 |https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/FLZB2.txt|
 
