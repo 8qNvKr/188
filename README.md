@@ -53,6 +53,9 @@
 | 肥猫 | http://我不是.肥猫.live/TV/tvzb.txt | 
 | 老司机🈲 | https://files.catbox.moe/3m5dbm.txt |
 | 糖意直播🈲 | https://www.netpan.cn/down.php/93ee8880761608126469a9b65f81f5df.txt |
+| 18🈲 | https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt |
+| 18🈲 | https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt |
+| 18🈲 | https://cyuan.netlify.app/tvbox/lives/18+/18+%E5%8D%83%E9%83%A8%E7%8B%AC%E5%AE%B6%E4%BC%A0%E5%AA%92%E6%97%A0%E6%B0%B4%E5%8D%B0%E6%9D%A5%E8%A2%ADtvlist.txt |
 | 自用🈲 |https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/FLZB.txt|
 | 自用🈲 |https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/FLZB2.txt|
 
