@@ -1,6 +1,6 @@
 {"urls":
 [
-{"url":"https://tv.lan2wan.top/candymuj18.json","name":"💕CandyMuj★★★"},
+{"url":"https://ghp.ci/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/refs/heads/main/TVBox/candymuj18.json","name":"💕CandyMuj18"},
 {"url":"https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json","name":"🍉黑料呱哥"},
 {"url":"https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/video.json","name":"🔞小武哥18+"},
 {"url":"https://ghp.ci/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json","name":"🔞挺好专享"},
