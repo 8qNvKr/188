@@ -24,8 +24,9 @@
 | :---: | :--- | 
 | 潇洒 | https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt |
 | 无界直播 | https://www.xn--rgv465a.top/无界直播禁止贩卖|
-| 春盈天下🈲| https://files.catbox.moe/feyax3.txt | 
+| 小张不咕咕 | https://www.rjjjh.com/live/rjjjh.txt |
 | 肥猫 | http://我不是.肥猫.live/TV/tvzb.txt | 
+| 春盈天下🈲| https://files.catbox.moe/feyax3.txt | 
 | 老司机🈲 | https://files.catbox.moe/3m5dbm.txt |
 | 糖意直播🈲 | https://www.netpan.cn/down.php/93ee8880761608126469a9b65f81f5df.txt |
 | 18🈲 | https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt |
