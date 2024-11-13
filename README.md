@@ -10,9 +10,6 @@
 | 宝盒多仓 | http://mzjk.top/DC |
 | 无界多仓 | https://www.xn--rgv465a.top/无界多仓禁止贩卖|
 | wuheng18_ysc🈲 | https://ghp.ci/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
-| wuheng18_0🈲 | https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy20231124/master/x/0 |
-| wuheng18_1🈲 | https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy20231124/master/x/1 |
-| wuheng18_2🈲 | https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy20231124/master/x/2 |
 | 自用多仓 | https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
 | 自用多仓🈲 | https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/DC18.json |
 ## 影视专用、多线路
@@ -24,12 +21,9 @@
 | 喵影视TV | http://www.meowtv.top |
 | 高天流云 | https://already.free.hr/gaotianliuyun/gao/master/0821.json |
 | 宝盒视界 | https://ghp.ci/https://raw.githubusercontent.com/guot55/yg/refs/heads/main/pg/jsm.json |
-| 黑料呱哥🈲|  https://ghp.ci/https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json |
-| CandyMuj🈲| https://tv.lan2wan.top/candymuj18.json |
 | 金鹰影视1 |http://530.my3v.work/jy.json|
 | 金鹰影视2 | http://530.my3v.work/1.json|
 | 小武哥  |https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json|
-| 小武哥🈲 | https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json|
 | 小张 | https://www.rjjjh.com/xzbgg.json |
 | 缝纫机 | https://ghp.ci/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json |
 | 刺猬 | https://www.cwss.xyz/刺猬线路禁止贩卖 |
@@ -37,11 +31,6 @@
 | 盐枭 | https://9xi4o.tk/tvbox.json|
 | 炫猪 | https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json|
 | 小林 | https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json|
-| 神V🈲 | https://cccimg.com/down.php/f4af154c7c931173b01827de1ef2743f.txt&0474 |
-| aliluya1977🈲 | https://ghp.ci/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa.json |
-| aliluya1977🈲2 | https://ghp.ci/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa11.json |
-| WYB🈲 | https://raw.githubusercontent.com/hjpwyb/WYB/refs/heads/main/data/test/S5.json |
-
 ## 直播 福利（影视：点击直播主页→钥匙，影视仓超级密码：azgkf）
 | 名称 | 地址 | 
 | :---: | :--- | 
