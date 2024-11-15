@@ -32,9 +32,9 @@
 
 ## ZYplayer专用(把青年模式关了就可以搜关键字了,搜索旁边 精确搜索关掉)
 
-https://gh.idayer.comh/ttps://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/refs/heads/main/src_18_2023-07-29.json
+https://gh.idayer.comh/ttps://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_18_2023-07-29.json
 
-https://gh.idayer.com/https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/refs/heads/main/src_18_2023-08-22.json
+https://gh.idayer.com/https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_18_2023-08-22.json
 
 ## 常用github加速
 | 地址 | 
