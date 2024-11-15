@@ -1,5 +1,5 @@
 {"storeHouse":[
-{"sourceName":"🍭优选","sourceUrl":"https://raw.githubusercontent.com/8qNvKr/188/main/DCzycar.json"},
-{"sourceName":"🐟fish2018","sourceUrl":"https://raw.githubusercontent.com/fish2018/tvbox/master/all.json"},
-{"sourceName":"🈲hd9211","sourceUrl":"https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"}
+{"sourceName":"🍭优选","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/8qNvKr/188/main/DCzycar.json"},
+{"sourceName":"🐟fish2018","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/all.json"},
+{"sourceName":"🈲hd9211","sourceUrl":"https://ghp.ci/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"}
 ]}
