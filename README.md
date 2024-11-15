@@ -11,7 +11,6 @@
 | 无界多仓 | https://www.xn--rgv465a.top/无界多仓禁止贩卖|
 | wuheng18_ysc🈲 | https://gh.idayer.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
 | 自用多仓 | https://gh.idayer.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
-| 自用多仓🈲 | https://gh.idayer.com/https://raw.githubusercontent.com/8qNvKr/188/main/DC18.json |
 ## 影视专用、多线路
 | 名称 | 地址 |
 | :---: | :--- | 
