@@ -2,19 +2,16 @@
 ## 影视仓专用、多仓
 | 名称 | 地址 |
 | :---: | :--- | 
-| 高天流云、优质、CR | https://gh.idayer.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json |
-| 潇洒哥多仓 | https://gh.idayer.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt|
-| 多多影音多仓 | https://cdn09022024.gitlink.org.cn/leevi0321/cool/raw/branch/main/room.json|
-| 百晓生多仓 | https://cdn09022024.gitlink.org.cn/YSBXS/BXSJK/raw/branch/master/DC.json |
 | 无界多仓 | https://www.xn--rgv465a.top/无界多仓禁止贩卖|
-| wuheng18_ysc🈲 | https://gh.idayer.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
+| 百晓生多仓 | https://cdn09022024.gitlink.org.cn/YSBXS/BXSJK/raw/branch/master/DC.json |
+| 多多影音多仓 | https://cdn09022024.gitlink.org.cn/leevi0321/cool/raw/branch/main/room.json|
+| 潇洒哥多仓 | https://gh.idayer.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt|
 | 自用多仓 | https://gh.idayer.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
+| wuheng18_ysc🈲 | https://gh.idayer.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
 ## 影视专用、多线路
 | 名称 | 地址 |
 | :---: | :--- | 
 | 雷蒙 | https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp|
-| 金鹰影视1 | http://530.my3v.work/jy.json|
-| 金鹰影视2 | http://530.my3v.work/1.json|
 ## 直播 福利（影视：点击直播主页→钥匙，影视仓超级密码：azgkf）
 | 名称 | 地址 | 
 | :---: | :--- | 
