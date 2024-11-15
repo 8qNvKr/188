@@ -40,7 +40,7 @@ https://gh.idayer.com/https://raw.githubusercontent.com/vfdeclnc/zy-player_kkpla
 | 地址 | 
 | :--- | 
 | https://github.moeyy.xyz/ |
-| https://gh.idayer.com/ |
+| https://gitdl.cn/ |
 | https://gh.con.sh/ |
 | https://gh.llkk.cc/ |
 | https://ghp.ci/ |
