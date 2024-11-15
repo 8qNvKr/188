@@ -41,3 +41,10 @@
 https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/refs/heads/main/src_18_2023-07-29.json
 
 https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/refs/heads/main/src_18_2023-08-22.json
+
+## 常用github加速
+| 地址 | 
+| :--- | 
+| https://gh.idayer.com/ |
+https://ghp.ci/
+https://github.moeyy.xyz/
