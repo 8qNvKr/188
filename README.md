@@ -4,10 +4,8 @@
 | :---: | :--- | 
 | 高天流云、优质、CR | https://gh.idayer.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json |
 | 潇洒哥多仓 | https://gh.idayer.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt|
-| 多多影音多仓 | https://cdn09022024.gitlink.org.cn/leevi0321/cool/raw/branch/main/room.json |
-| 无邪多仓 | https://cdn09022024.gitlink.org.cn/wxrj/wx/raw/wx.json?ref=master |
+| 多多影音多仓 | https://cdn09022024.gitlink.org.cn/leevi0321/cool/raw/branch/main/room.json|
 | 百晓生多仓 | https://cdn09022024.gitlink.org.cn/YSBXS/BXSJK/raw/branch/master/DC.json |
-| 宝盒多仓 | http://mzjk.top/DC |
 | 无界多仓 | https://www.xn--rgv465a.top/无界多仓禁止贩卖|
 | wuheng18_ysc🈲 | https://gh.idayer.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
 | 自用多仓 | https://gh.idayer.com/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
@@ -46,4 +44,6 @@ https://gh.idayer.com/https://raw.githubusercontent.com/vfdeclnc/zy-player_kkpla
 | :--- | 
 | https://gh.idayer.com/ |
 | https://github.moeyy.xyz/ |
+| https://gh.con.sh/ |
+| https://gh.llkk.cc/ |
 | https://ghp.ci/ |
