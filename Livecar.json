@@ -1,0 +1,245 @@
+{
+    "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;a2caecf3cb7c9cdee3106033668024aa",
+    "logo": "https://img.zhuimi.top/img/2024/09/16/66e7f265b5030.png",
+    "lives": [
+        {
+            "name": "大葱线路_电视直播",
+            "playerType": 2,
+            "url": "https://tv.iill.top/m3u/Gather",
+            "playerplayerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "pass": true
+        },
+        {
+            "name": "大葱线路_MyTV直播",
+            "playerType": 2,
+            "url": "https://tv.iill.top/m3u/MyTV",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },
+        {
+            "name": "大葱线路_网络直播",
+            "playerType": 2,
+            "url": "https://tv.iill.top/m3u/Live",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },
+        {
+            "name": "cxr9912",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/cxr9912/cxr2022/main/live18.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },               
+        {
+            "name": "newrecha_nothing",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/nothing.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },
+
+        {
+            "name": "newrecha_666",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/666-live.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "newrecha_178",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/178.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "newrecha_king",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/king.txt",
+            "playerplayerType": 2,
+            "ua": "okhttp/3.15",
+            "timeout": 5,
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "小武哥(18+)｜訂閱",
+            "playerType": 2,
+            "url": "https://qu.ax/PEHy.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },
+        {
+            "name": "小林少_18点播",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18点播文件.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },
+        {
+            "name": "小林少_18点播1",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18+点播文件1.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },         
+        {
+            "name": "小林少_18tvlist",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/18 千部独家传媒无水印来袭tvlist.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },
+        {
+            "name": "WYB_tv1",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/hjpwyb/WYB/main/data/test/tv1.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },
+        {
+            "name": "WYB_tv3",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/hjpwyb/WYB/main/data/test/tv3.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },                                        
+        {
+            "name": "锅大侠",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/live18.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },                  
+        {
+            "name": "追梦人_hongkongdoll",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/hongkongdoll.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },        
+        {
+            "name": "追梦人_YG",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/YG.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        }, 
+        {
+            "name": "追梦人_hsck",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/hsck.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        }, 
+        {
+            "name": "追梦人_idol",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/idol.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },         
+        {
+            "name": "追梦人_madou",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/madou.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },  
+        {
+            "name": "追梦人_monlingwu",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/lndsqhj/zblive/main/monlingwu.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },
+        {
+            "name": "wuwurpg",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/ashsteins/wuwurpg/main/Adult.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },
+        {
+            "name": "wuwurpg",
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/ashsteins/wuwurpg/main/Adult.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
+        },                                       
+        {
+            "name": "--PG包測試區--",
+            "playerType": 0,
+            "url": "",
+            "playerplayerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "pass": true
+        } 
+    ],
+    "rules": [
+        {
+            "name": "量子",
+            "hosts": [
+                "vip.lz",
+                "hd.lz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "火山",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        }
+    ],
+    "flags": [
+        "youku",
+        "优酷",
+        "优 酷",
+        "优酷视频",
+        "qq",
+        "腾讯",
+        "腾 讯",
+        "腾讯视频",
+        "iqiyi",
+        "qiyi",
+        "奇艺",
+        "爱奇艺",
+        "爱 奇 艺",
+        "m1905",
+        "xigua",
+        "letv",
+        "leshi",
+        "乐视",
+        "乐 视",
+        "sohu",
+        "搜狐",
+        "搜 狐",
+        "搜狐视频",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "芒果",
+        "imgo",
+        "芒果TV",
+        "芒 果 T V",
+        "bilibili",
+        "哔 哩",
+        "哔 哩 哔 哩"
+    ],
+    "ads": [
+        "mozai.4gtv.tv",
+        "pv.vipwm.cc"
+    ]
+}
