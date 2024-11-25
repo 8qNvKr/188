@@ -2,7 +2,7 @@
 ## 影视仓专用、多仓
 | 名称 | 地址 |
 | :---: | :--- | 
-| 无界 | https://www.xn--rgv465a.top/无界多仓禁止贩卖|
+| 无界 | https://www.无界.top/无界线路多仓版|
 | 百晓生 | https://cdn09022024.gitlink.org.cn/YSBXS/BXSJK/raw/branch/master/DC.json |
 | 多多影音 | https://cdn09022024.gitlink.org.cn/leevi0321/cool/raw/branch/main/room.json|
 | 潇洒哥 | https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt|
