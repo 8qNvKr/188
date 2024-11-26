@@ -4,7 +4,7 @@
 | :---: | :--- | 
 | 无界 | https://www.无界.top/无界线路多仓版|
 | 百晓生 | https://cdn09022024.gitlink.org.cn/YSBXS/BXSJK/raw/branch/master/DC.json |
-| 多多影音 | https://cdn09022024.gitlink.org.cn/leevi0321/cool/raw/branch/main/room.json|
+| 多多影音 | https://bitbucket.org/xduo/cool/raw/main/room.json |
 | 潇洒哥 | https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt|
 | 自用 | https://github.moeyy.xyz/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
 | wuheng18 | https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
