@@ -16,7 +16,7 @@
 | 名称 | 地址 | 
 | :---: | :--- | 
 | 潇洒 | https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt |
-| 无界直播 | https://www.xn--rgv465a.top/无界直播禁止贩卖|
+| 无界直播 | https://www.无界.top/无界直播订阅 |
 | 小张不咕咕 | https://www.rjjjh.com/live/rjjjh.txt |
 | 肥猫 | http://我不是.肥猫.live/TV/tvzb.txt | 
 | 车队 | https://raw.githubusercontent.com/fish2018/lib/main/json/feimaolive.json |
