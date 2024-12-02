@@ -32,4 +32,3 @@ https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/s
 | https://gh.llkk.cc/ |
 | https://ghp.ci/ |
 | https://gitdl.cn/ |
-| https://gh.con.sh/ |
