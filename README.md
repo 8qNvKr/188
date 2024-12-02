@@ -15,7 +15,6 @@
 ## 直播（影视直播主页→钥匙，影视仓超级密码：azgkf）
 | 名称 | 地址 | 
 | :---: | :--- | 
-| 潇洒 | https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt |
 | 无界直播 | https://www.无界.top/无界直播订阅 |
 | 小张不咕咕 | https://www.rjjjh.com/live/rjjjh.txt |
 | 车队 | https://raw.githubusercontent.com/fish2018/lib/main/json/feimaolive.json |
