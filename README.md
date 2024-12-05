@@ -6,8 +6,10 @@
 | 蓝色影视 | https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json |
 | 多多影音 | https://bitbucket.org/xduo/cool/raw/main/room.json |
 | 潇洒哥 | https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt|
-| 自用 | https://github.moeyy.xyz/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
 | wuheng18 | https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json |
+| 自用 | https://github.moeyy.xyz/https://raw.githubusercontent.com/8qNvKr/188/main/DCys.json |
+| 聚合仓 | https://github.moeyy.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang1.json|
+
 ## 影视专用、多线路
 | 名称 | 地址 |
 | :---: | :--- | 
@@ -31,4 +33,3 @@ https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/s
 | https://github.moeyy.xyz/ |
 | https://gh.llkk.cc/ |
 | https://ghp.ci/ |
-| https://gitdl.cn/ |
