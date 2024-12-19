@@ -2,8 +2,7 @@
 ## 影视仓专用、多仓
 | 名称 | 地址 |
 | :---: | :--- | 
-| 无界 | https://www.无界.top/无界线路多仓版|
-| 蓝色影视 | https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json |
+| 无界 | https://www.无界.top/无界线路多仓版 |
 | 多多影音 | https://bitbucket.org/xduo/cool/raw/main/room.json |
 | 蜗牛 | https://raw.githubusercontent.com/woniuxs/TVBOX/main/DC |
 | 潇洒哥 | https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt|
